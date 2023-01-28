@@ -1,0 +1,5 @@
+Tailwind template used for homepage:
+https://github.com/tailwindtoolbox/Landing-Page/blob/master/LICENSE
+
+/images/pin.png
+https://openclipart.org/detail/305298/location
